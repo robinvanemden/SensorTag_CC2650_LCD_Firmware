@@ -1,4 +1,4 @@
-# SensorTag CC2650 LCD Firmware
+# SensorTag CC2650 Firmware with LCD support
 Custom CC2650 SensorTag Firmware with support for LCD Display DevPack.
 Shows live temperatures.
 
